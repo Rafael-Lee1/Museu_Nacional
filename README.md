@@ -10,7 +10,6 @@
 
 # Descrição
 
- Descrição:
 O Museu Nacional é um dos mais importantes museus do país, com um vasto acervo de peças e artefatos que retratam a história e a cultura do Brasil e do mundo. O site do Museu Nacional foi criado para levar a cultura e a educação para além das paredes do museu, oferecendo aos usuários a oportunidade de explorar o acervo do museu de forma virtual.
 
 Com uma interface moderna e intuitiva, o site do Museu Nacional permite que os usuários tenham acesso ao acervo do museu e aprendam sobre a história e a cultura de diferentes países e povos. Além disso, o site também oferece diversas funcionalidades que melhoram a experiência do usuário e promovem a interação com o museu.
